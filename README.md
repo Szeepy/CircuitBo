@@ -1,5 +1,3 @@
-
-
 Table of Contents
 
 Features
@@ -12,7 +10,7 @@ The Installation is pretty straightforward, you just download any zip file and r
 
 Usage
 
-have atleast 40 KB of storage (as of now)
+have atleast 20 KB of storage (as of now)
 
 Contributing
 
