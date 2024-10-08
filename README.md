@@ -1,7 +1,5 @@
 # Szeepy.github.io
 
-Brief description of your project and what it does. 
-
 Table of Contents
 
 - Features
