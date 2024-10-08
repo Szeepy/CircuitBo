@@ -16,4 +16,4 @@ have atleast 20 KB of storage (as of now)
 
 Contributing
 
-You can contribute however you want, just make sure to send me a copy of your edited code on my email (szeepydev@gmail.com)
+You can contribute however you want, just make sure to send me a copy of your edited code to my email (szeepydev@gmail.com)
