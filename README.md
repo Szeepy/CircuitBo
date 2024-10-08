@@ -1,5 +1,5 @@
 Table of Contents
-
+here youll find all the necessary information on how to run and contribute to the project
 Features
 
 the first prototype and the latest version are available right now
