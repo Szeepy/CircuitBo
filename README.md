@@ -1,5 +1,5 @@
 # Szeepy.github.io
-
+here youll find all the necessary information on how to run and contribute to the project
 Table of Contents
 
 - Features
