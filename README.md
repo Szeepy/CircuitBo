@@ -9,7 +9,7 @@ Table of Contents
 - The Installation is pretty straightforward, you just download any zip file and run the HTML file
 
 - Usage
-- have atleast 40 KB of storage (as of now)
+- have atleast 20 KB of storage (as of now)
 
 - Contributing
 - You can contribute however you want,
